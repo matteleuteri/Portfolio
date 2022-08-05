@@ -4,13 +4,10 @@ export default  class Resume extends Component {
     let resumeData = this.props.resumeData;
     return (
       <section id="resume">
-
          <div className="row education">
-
             <div className="three columns header-col">
                <h1><span>Education</span></h1>
             </div>
-
             <div className="nine columns main-col">
               {
                 resumeData.education && resumeData.education.map((item)=>{
@@ -30,12 +27,11 @@ export default  class Resume extends Component {
                 })
               }
             </div>
-         </div>
-        <div className="row work">
+          </div>
+          <div className="row work">
             <div className="three columns header-col">
                <h1><span>Work</span></h1>
             </div>
-
             <div className="nine columns main-col">
               {
                 resumeData.work && resumeData.work.map((item) => {
@@ -57,24 +53,17 @@ export default  class Resume extends Component {
                 })
               }
             </div> 
-         </div>
-
-
-         <div className="row skill">
-
+          </div>
+          <div className="row skill">
             <div className="three columns header-col">
                <h1><span>Skills</span></h1>
             </div>
-
             <div className="nine columns main-col">
-
-               <p>
-               {resumeData.skillsDescription}
-               </p>
-
-   				<div className="bars">
-
-   				   <ul className="skills">
+              <p>
+                {resumeData.skillsDescription}
+              </p>
+   				  <div className="bars">
+     				  <ul className="skills">
                 {
                   resumeData.skills && resumeData.skills.map((item) => {
                     return(
@@ -85,15 +74,10 @@ export default  class Resume extends Component {
                     )
                   })
                 }
-
-   					</ul>
-
-   				</div>
-
-   			</div>
-
-         </div>
-
+   					  </ul>
+   				  </div>
+   			  </div>
+        </div>
       </section>
     );
   }

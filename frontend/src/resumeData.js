@@ -1,52 +1,43 @@
 let resumeData = {
   "imagebaseurl":"https://techonoeticsclub.github.io/",
   "name": "Matthew Eleuteri",
-  "role": "Software Engineer",
-  // "linkedinId":"Your LinkedIn Id",
-  // "skypeid": "Your skypeid",
-  "roleDescription": "I am java developer at an insurance company",
+  "roleDescription": "I am a software development engineer at AWS, interested in learning how the web is powered.",
   "socialLinks":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/",
+        "url":"https://www.linkedin.com/in/matthew-eleuteri-9089ab138/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/",
+        "url":"https://github.com/matteleuteri",
         "className":"fa fa-github"
       },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
-      }
     ],
   "aboutme":"I recently finished my M.S. in Computer Science and have been professionally developing software for two years.",
   "address":"Boston Massachusetts",
-  "website":"https://www.google.com",
   "education":[
     {
-      "UniversityName":"University of Massachusetts ,Amherst",
-      "Major":"Computer Science and Math",
-      "MonthOfPassing":"Jun",
+      "UniversityName":"M.S. University of Massachusetts, Amherst",
+      "specialization":"Computer Science and Math",
+      "MonthOfPassing":"June",
       "YearOfPassing":"2020",
+      // "Achievements":"Some "
+    },
+    {
+      "UniversityName":"B.S. University of Massachusetts, Amherst",
+      "specialization":"Computer Science",
+      "MonthOfPassing":"February",
+      "YearOfPassing":"2022",
       // "Achievements":"Some Achievements"
-    }// ,
-    // {
-    //   "UniversityName":"Some University",
-    //   "specialization":"Some specialization",
-    //   "MonthOfPassing":"Jan",
-    //   "YearOfPassing":"2018",
-    //   "Achievements":"Some Achievements"
-    // }
+    }
   ],
   "work":[
     {
-      "CompanyName":"Some Company",
-      "specialization":"Some specialization",
-      "MonthOfLeaving":"Jan",
-      "YearOfLeaving":"2018",
+      "CompanyName":"MAPFRE Insurance",
+      "specialization":"Programmer Analyst I",
+      "MonthOfLeaving":"January 2022-",
+      "YearOfLeaving":"August 2022",
       "Achievements":"Some Achievements"
     },
     {
@@ -91,15 +82,5 @@ let resumeData = {
       "imgurl":"images/portfolio/phone.jpg"
     }
   ],
-  "testimonials":[
-    {
-      "description":"This is a sample testimonial",
-      "name":"Some technical guy"
-    },
-    {
-      "description":"This is a sample testimonial",
-      "name":"Some technical guy"
-    }
-  ]
 }
 export default resumeData
