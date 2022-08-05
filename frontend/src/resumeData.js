@@ -41,23 +41,23 @@ let resumeData = {
       "Achievements":"Some Achievements"
     },
     {
-      "CompanyName":"Some Company",
-      "specialization":"Some specialization",
-      "MonthOfLeaving":"Jan",
-      "YearOfLeaving":"2018",
+      "CompanyName":"Raid The Room",
+      "specialization":"Web Application Developer",
+      "MonthOfLeaving":"April 2020-",
+      "YearOfLeaving":"April 2021",
       "Achievements":"Some Achievements"
     }
   ],
   "skillsDescription":"Your skills here",
   "skills":[
     {
-      "skillname":"HTML5"
+      "skillname":"Java"
     },
     {
-      "skillname":"CSS"
+      "skillname":"Javasript"
     },
     {
-      "skillname":"Reactjs"
+      "skillname":"C++"
     }
   ],
   "portfolio":[
