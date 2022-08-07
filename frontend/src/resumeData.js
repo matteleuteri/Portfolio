@@ -19,16 +19,16 @@ let resumeData = {
   "education":[
     {
       "UniversityName":"M.S. University of Massachusetts, Amherst",
-      "specialization":"Computer Science and Math",
-      "MonthOfPassing":"June",
-      "YearOfPassing":"2020",
+      "specialization":"Computer Science",
+      "MonthOfPassing":"September 2020-",
+      "YearOfPassing":"February 2022",
       // "Achievements":"Some "
     },
     {
       "UniversityName":"B.S. University of Massachusetts, Amherst",
-      "specialization":"Computer Science",
-      "MonthOfPassing":"February",
-      "YearOfPassing":"2022",
+      "specialization":"Computer Science and Math",
+      "MonthOfPassing":"September 2016-",
+      "YearOfPassing":"June 2020",
       // "Achievements":"Some Achievements"
     }
   ],
@@ -38,14 +38,14 @@ let resumeData = {
       "specialization":"Programmer Analyst I",
       "MonthOfLeaving":"January 2022-",
       "YearOfLeaving":"August 2022",
-      "Achievements":"Some Achievements"
+      "Achievements":"Wrote java spring batch jobs for batch processing of financial records."
     },
     {
       "CompanyName":"Raid The Room",
       "specialization":"Web Application Developer",
       "MonthOfLeaving":"April 2020-",
       "YearOfLeaving":"April 2021",
-      "Achievements":"Some Achievements"
+      "Achievements":"Designed and coded single page applicaitons with javascript and node.js."
     }
   ],
   "skillsDescription":"Your skills here",
