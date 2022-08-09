@@ -22,7 +22,7 @@ let resumeData = {
       "specialization":"Computer Science",
       "MonthOfPassing":"September 2020-",
       "YearOfPassing":"February 2022",
-      // "Achievements":"Some "
+ 
     },
     {
       "UniversityName":"B.S. University of Massachusetts, Amherst",
@@ -62,13 +62,13 @@ let resumeData = {
   ],
   "portfolio":[
     {
-      "name":"project1",
-      "description":"mobileapp",
+      "name":"In The Clouds",
+      "description":"C++ 2D Platform game",
       "imgurl":"images/portfolio/phone.jpg"
     },
     {
-      "name":"project2",
-      "description":"mobileapp",
+      "name":"Robo Spiders In Space",
+      "description":"C++ 2D Spaceship game",
       "imgurl":"images/portfolio/project.jpg"
     },
     {
