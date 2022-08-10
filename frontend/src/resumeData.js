@@ -64,22 +64,22 @@ let resumeData = {
     {
       "name":"In The Clouds",
       "description":"C++ 2D Platform game",
-      "imgurl":"images/portfolio/phone.jpg"
+      "imgurl":"images/portfolio/project1.png"
     },
     {
       "name":"Robo Spiders In Space",
       "description":"C++ 2D Spaceship game",
-      "imgurl":"images/portfolio/project.jpg"
+      "imgurl":"images/portfolio/project2.png"
     },
     {
-      "name":"project3",
-      "description":"mobileapp",
-      "imgurl":"images/portfolio/project2.png"
+      "name":"My VSCode Theme",
+      "description":"works well with c++ syntax highliting",
+      "imgurl":"images/portfolio/project3.png"
     },
     {
       "name":"project4",
       "description":"mobileapp",
-      "imgurl":"images/portfolio/phone.jpg"
+      "imgurl":"images/portfolio/project4.png"
     }
   ],
 }
